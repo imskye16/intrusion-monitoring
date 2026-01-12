@@ -1,0 +1,15 @@
+com\example\service\ShpParseService.class
+com\example\entity\Station.class
+com\example\dto\StationBuildDateDTO.class
+com\example\controller\TestDbController.class
+com\example\controller\ShpController.class
+com\example\mapper\StationMapper.class
+com\example\service\MeasurementService.class
+com\example\App.class
+com\example\mapper\MeasurementMapper.class
+com\example\entity\Measurement.class
+com\example\service\StationService.class
+com\example\controller\MeasurementController.class
+com\example\controller\StationController.class
+com\example\mapper\TestMapper.class
+com\example\controller\StationStatisticsController.class
